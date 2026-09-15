@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # App 2 - GastoDía
 
 Registro de gastos con formulario validado y lista dinámica.
@@ -9,6 +10,17 @@ Registro de gastos con formulario validado y lista dinámica.
 - Se puede eliminar un gasto y navegar al detalle.
 - Maneja correctamente entradas inválidas.
 - Reto opcional: resumen/filtro por categoría.
+=======
+# App 1 - EcoGuía
+
+Catálogo de especies con cuadrícula y ficha de detalle.
+
+## Funcionalidad
+- Muestra al menos 8 especies con nombre y categoría.
+- Al tocar una tarjeta, abre una ficha con descripción y dato curioso.
+- Permite marcar como favorito y muestra un SnackBar.
+- Incluye buscador para filtrar especies en tiempo real.
+>>>>>>> 2de65dcb6a757224ccccf71c24935d02a6606b1c
 
 ## Ejecución
 flutter run
